@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/design-team-work.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "A team work in a conference room with books and laptops";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Variety of numerical methods in python",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "With a simple interface, you can solve a variety of numerical methods in python",
+    url: "https://github.com/Tongother/proyecto_tareas",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Generic form created in C#",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
+      "Saving the information in a notepad for data recording.",
     url: "https://github.com/microsoft/web-dev-for-beginners",
   },
   {
-    title: "My Resume Site",
+    title: "Web Pokedex",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Information about all the existing Pokémon on a single page, allows you to filter by numbering from the lowest or the highest, by alphabetical order and a small description with an animated gif when you click on it.",
+    url: "https://github.com/Tongother/pre_pokedex",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Simulation of an ATM on a website",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "It has 3 functions: deposit, transfer and withdraw. After each action carried out, you have the possibility of printing the respective receipt for the operation carried out. Has a dark mode feature",
+    url: "https://github.com/Tongother/Cajero_automatico-ATM",
   },
 ];
 
